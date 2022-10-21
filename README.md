@@ -3,7 +3,7 @@
 
 
 - 🤞🏽 Soy Felix Ochoa, estudiante de Ingeniería de Sistemas y desarrollador Frontend.
-- 🍀 Actualmente estoy aprendiendo React.
+- 🍀 Actualmente soy Desarrollador de React y Next, en aprendizaje completo de Redux.
 
 
 
