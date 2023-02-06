@@ -2,7 +2,7 @@
 
 
 
-- 🤞🏽 Soy Felix Ochoadesarrollador Frontend.
+- 🤞🏽 Soy Felix Ochoa, desarrollador Frontend.
 - 🍀 Actualmente soy Desarrollador de React y Next.
 
 
