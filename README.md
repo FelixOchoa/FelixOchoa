@@ -2,9 +2,8 @@
 
 
 
-- 🤞🏽 Soy Felix Ochoa, desarrollador Frontend.
-- 🍀 Actualmente soy Desarrollador de React y Next.
-
+- 🤞🏽 Soy Felix Ochoa, desarrollador de software, he realizado proyectos para programación de escritorio, móvil y web.
+- 🍀 Actualmente soy Desarrollador y docente de programación web.
 
 
 <!---
